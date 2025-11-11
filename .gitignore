@@ -1,0 +1,20 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas generadas por IDEs o Tomcat
+/build/
+/target/
+
+# Archivos de Eclipse
+.project
+.classpath
+.settings/
+
+# Archivos de IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Archivos del Sistema
+.DS_Store
+Thumbs.db
